@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ## usage
 
 the output for "DROPPED" to trigger alerts.
+
+<!-- refreshed: 2026-10-04 -->
